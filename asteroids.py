@@ -52,7 +52,8 @@ nebula_image = simplegui.load_image("https://raw.githubusercontent.com/BegoUrsus
 
 # splash image
 splash_info = ImageInfo([200, 150], [400, 300])
-splash_image = simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/splash.png")
+#splash_image = simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/splash.png")
+splash_image = simplegui.load_image("https://raw.githubusercontent.com/BegoUrsus/asteroids/master/splash2.png")
 
 # ship image
 ship_info = ImageInfo([45, 45], [90, 90], 35)
