@@ -11,16 +11,18 @@ To play the game just copy and paste the contents of the file asteroids.py into 
 Para ejecutar el juego simplemente copie y pegue el contenido del fichero asteroids.py en [CodeSkulptor](http://www.codeskulptor.org) y pulse el botón play (arriba a la izquierda)
 
 ## Controls/Controles
-* Left mouse button: Click on Splash Screen to start the game
-* UP Key: Accelerate
-* RIGHT/LEFT Keys: Rotate ship right/left
-* Lowercase s: Stop current game
 
+1. Left mouse button: Click on Splash Screen to start the game
+2. UP Key: Accelerate
+3. RIGHT/LEFT Keys: Rotate ship right/left
+4. Lowercase s: Stop current game
 
-* Botón izquierdo del ratón: Pulsar para iniciar la partida
-* Flecha arriba: Acelerar
-* Flechas izquierda/derecha: Girar la nave hacia la izquierda/derecha
-* S minúscula: Parar el juego
+* * *
+
+1. Botón izquierdo del ratón: Pulsar para iniciar la partida
+2. Flecha arriba: Acelerar
+3. Flechas izquierda/derecha: Girar la nave hacia la izquierda/derecha
+4. s minúscula: Parar el juego
 
 ##Capturas de pantalla
 
