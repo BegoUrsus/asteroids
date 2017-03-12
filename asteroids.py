@@ -47,7 +47,8 @@ debris_image = simplegui.load_image("http://commondatastorage.googleapis.com/cod
 
 # nebula images - nebula_brown.png, nebula_blue.png
 nebula_info = ImageInfo([400, 300], [800, 600])
-nebula_image = simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/nebula_blue.s2014.png")
+#nebula_image = simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/nebula_blue.s2014.png")
+nebula_image = simplegui.load_image(https://raw.githubusercontent.com/BegoUrsus/asteroids/master/fondo.png);
 
 # splash image
 splash_info = ImageInfo([200, 150], [400, 300])
